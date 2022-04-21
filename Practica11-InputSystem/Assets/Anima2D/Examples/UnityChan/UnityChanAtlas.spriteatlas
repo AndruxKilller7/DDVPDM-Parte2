@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnityChanAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -7883866192385575364, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 920200401680159811, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -7690861461720601230, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -6684475192863260856, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 9170327630243124144, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 1404248521807868572, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 5680673976619871293, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -7969225410775572928, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -1613414928997637167, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -8942817527115040722, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 3568587909782029186, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -6596105612730252187, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 277801872691154187, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 3210994475073176143, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -199644854353079308, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -997972493423046422, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 4335250483284255847, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -217455086581007235, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -2850093654693141264, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -983156657889264743, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 3150387745278999259, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 9093825842685103111, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -78570060565829106, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 5821839773869540889, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -7773183333426011814, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 237255737888612096, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -1158871858569825772, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: -480281958130896327, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 7286500777932155457, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 6114706908185900674, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 1724232623091690329, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  - {fileID: 1608028697691039176, guid: dd105a39e474c4706aba36b8be4febd9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - atlas_18
+  - atlas_19
+  - atlas_10
+  - atlas_11
+  - atlas_12
+  - atlas_13
+  - atlas_14
+  - atlas_15
+  - atlas_16
+  - atlas_17
+  - atlas_30
+  - atlas_9
+  - atlas_31
+  - atlas_8
+  - atlas_1
+  - atlas_0
+  - atlas_3
+  - atlas_2
+  - atlas_5
+  - atlas_4
+  - atlas_7
+  - atlas_6
+  - atlas_21
+  - atlas_20
+  - atlas_23
+  - atlas_22
+  - atlas_25
+  - atlas_24
+  - atlas_27
+  - atlas_26
+  - atlas_29
+  - atlas_28
+  m_RenderDataMap: {}
+  m_Tag: UnityChanAtlas
+  m_IsVariant: 0

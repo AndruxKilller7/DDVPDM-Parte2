@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 2e02adf3873cb7a4bbeabc30cdc1093c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7011658434818336165
+    second: SpriteJerarquiaAnimacion_0
+  - first:
+      213: 4072131880820491330
+    second: SpriteJerarquiaAnimacion_1
+  - first:
+      213: 808902651318613455
+    second: SpriteJerarquiaAnimacion_2
+  - first:
+      213: -2080136695676327139
+    second: SpriteJerarquiaAnimacion_3
+  - first:
+      213: 1435451575594788583
+    second: SpriteJerarquiaAnimacion_4
+  - first:
+      213: 4535211433676011892
+    second: SpriteJerarquiaAnimacion_5
+  - first:
+      213: 5864055529019024551
+    second: SpriteJerarquiaAnimacion_6
+  - first:
+      213: 2761542157920426666
+    second: SpriteJerarquiaAnimacion_7
+  - first:
+      213: -2163040871817718177
+    second: SpriteJerarquiaAnimacion_8
+  - first:
+      213: -1218466503184507109
+    second: SpriteJerarquiaAnimacion_9
+  - first:
+      213: 1719210708040251894
+    second: SpriteJerarquiaAnimacion_10
+  - first:
+      213: -9143421304397764144
+    second: SpriteJerarquiaAnimacion_11
+  - first:
+      213: 3537459450021976783
+    second: SpriteJerarquiaAnimacion_12
+  - first:
+      213: -7737753260789735375
+    second: SpriteJerarquiaAnimacion_13
+  - first:
+      213: -3916278504216741859
+    second: SpriteJerarquiaAnimacion_14
+  - first:
+      213: 624415892562493946
+    second: SpriteJerarquiaAnimacion_15
+  - first:
+      213: 6392975262472873777
+    second: SpriteJerarquiaAnimacion_16
+  - first:
+      213: -7113238824002679880
+    second: SpriteJerarquiaAnimacion_17
+  - first:
+      213: 1731229468557418209
+    second: SpriteJerarquiaAnimacion_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 559
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5e7b5723a6e4160800000000000000
+      internalID: 7011658434818336165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 332
+        width: 292
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24449dade5e138830800000000000000
+      internalID: 4072131880820491330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 580
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5b7b5fcacc93b00800000000000000
+      internalID: 808902651318613455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 379
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b25f142bed123e0800000000000000
+      internalID: -2080136695676327139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 454
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62a974a9fbbe310800000000000000
+      internalID: 1435451575594788583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 268
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4797c8535ce40fe30800000000000000
+      internalID: 4535211433676011892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 237
+        width: 155
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4285e3f6f416150800000000000000
+      internalID: 5864055529019024551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 296
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaadc1b16f7f25620800000000000000
+      internalID: 2761542157920426666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 205
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5657a099c55bf1e0800000000000000
+      internalID: -2163040871817718177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 189
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f99facb23271fe0800000000000000
+      internalID: -1218466503184507109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 205
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f979cab70ddbd710800000000000000
+      internalID: 1719210708040251894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e1af74ca0c1180800000000000000
+      internalID: -9143421304397764144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 149
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca98e5a0a4971130800000000000000
+      internalID: 3537459450021976783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 117
+        width: 125
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e10bd76afd9490800000000000000
+      internalID: -7737753260789735375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 149
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b9a2237596a9c0800000000000000
+      internalID: -3916278504216741859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1cb4c22fe5aa800800000000000000
+      internalID: 624415892562493946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 64
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372e89312968b850800000000000000
+      internalID: 6392975262472873777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb8dc42af2b84d90800000000000000
+      internalID: -7113238824002679880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteJerarquiaAnimacion_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 19
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9d0a7700960810800000000000000
+      internalID: 1731229468557418209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

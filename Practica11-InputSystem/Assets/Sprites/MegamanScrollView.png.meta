@@ -1,0 +1,2124 @@
+fileFormatVersion: 2
+guid: 361961afe7359eb49aa946dcb48601b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3675719999607343884
+    second: MegamanScrollView_0
+  - first:
+      213: 7918846905641650193
+    second: MegamanScrollView_1
+  - first:
+      213: -6814059221753815176
+    second: MegamanScrollView_2
+  - first:
+      213: -1570327625424192061
+    second: MegamanScrollView_3
+  - first:
+      213: 7251965487348239100
+    second: MegamanScrollView_4
+  - first:
+      213: -8376563714420203585
+    second: MegamanScrollView_5
+  - first:
+      213: 2653802271532723305
+    second: MegamanScrollView_6
+  - first:
+      213: -7430003155926725524
+    second: MegamanScrollView_7
+  - first:
+      213: 8128609654964406951
+    second: MegamanScrollView_8
+  - first:
+      213: 6423560137491328491
+    second: MegamanScrollView_9
+  - first:
+      213: -3048411740480882371
+    second: MegamanScrollView_10
+  - first:
+      213: 4905086891028862898
+    second: MegamanScrollView_11
+  - first:
+      213: 6887119645908764711
+    second: MegamanScrollView_12
+  - first:
+      213: -3131896353198393703
+    second: MegamanScrollView_13
+  - first:
+      213: 9194493515103024182
+    second: MegamanScrollView_14
+  - first:
+      213: -6182766943182912705
+    second: MegamanScrollView_15
+  - first:
+      213: -1301372170216448379
+    second: MegamanScrollView_16
+  - first:
+      213: 5209222119245309605
+    second: MegamanScrollView_17
+  - first:
+      213: 5960869092161974124
+    second: MegamanScrollView_18
+  - first:
+      213: 6119780344401953424
+    second: MegamanScrollView_19
+  - first:
+      213: -6428011093468365510
+    second: MegamanScrollView_20
+  - first:
+      213: -7956802148097495009
+    second: MegamanScrollView_21
+  - first:
+      213: -2094467814913757139
+    second: MegamanScrollView_22
+  - first:
+      213: 7889713263135421528
+    second: MegamanScrollView_23
+  - first:
+      213: -2534748795451671397
+    second: MegamanScrollView_24
+  - first:
+      213: -5528624788013863948
+    second: MegamanScrollView_25
+  - first:
+      213: -1457629733190963066
+    second: MegamanScrollView_26
+  - first:
+      213: 7450137878006104601
+    second: MegamanScrollView_27
+  - first:
+      213: -233668214421892782
+    second: MegamanScrollView_28
+  - first:
+      213: 7884548613320524945
+    second: MegamanScrollView_29
+  - first:
+      213: -1917932709317800281
+    second: MegamanScrollView_30
+  - first:
+      213: 1104505164476215367
+    second: MegamanScrollView_31
+  - first:
+      213: 1885370970505817152
+    second: MegamanScrollView_32
+  - first:
+      213: 2668387347662434843
+    second: MegamanScrollView_33
+  - first:
+      213: -7092161367033790041
+    second: MegamanScrollView_34
+  - first:
+      213: -121511403706585818
+    second: MegamanScrollView_35
+  - first:
+      213: -7787353363028326756
+    second: MegamanScrollView_36
+  - first:
+      213: -9196321230013726763
+    second: MegamanScrollView_37
+  - first:
+      213: 7380686077991137635
+    second: MegamanScrollView_38
+  - first:
+      213: 791957477322841863
+    second: MegamanScrollView_39
+  - first:
+      213: -8553497224245388894
+    second: MegamanScrollView_40
+  - first:
+      213: -4452708115583066976
+    second: MegamanScrollView_41
+  - first:
+      213: -137222702993852139
+    second: MegamanScrollView_42
+  - first:
+      213: 7089367030902112743
+    second: MegamanScrollView_43
+  - first:
+      213: 674339757939007409
+    second: MegamanScrollView_44
+  - first:
+      213: -6195617018046380849
+    second: MegamanScrollView_45
+  - first:
+      213: -6651118432417098839
+    second: MegamanScrollView_46
+  - first:
+      213: -8306468372452137524
+    second: MegamanScrollView_47
+  - first:
+      213: -7212906749660901593
+    second: MegamanScrollView_48
+  - first:
+      213: 487293951970933793
+    second: MegamanScrollView_49
+  - first:
+      213: -2226894003650632481
+    second: MegamanScrollView_50
+  - first:
+      213: -5623166609629875869
+    second: MegamanScrollView_51
+  - first:
+      213: 5161514685775934966
+    second: MegamanScrollView_52
+  - first:
+      213: -8470679838292170714
+    second: MegamanScrollView_53
+  - first:
+      213: 1858735866480392385
+    second: MegamanScrollView_54
+  - first:
+      213: -5309090177316958827
+    second: MegamanScrollView_55
+  - first:
+      213: -2193929902310620114
+    second: MegamanScrollView_56
+  - first:
+      213: 6997096470930134244
+    second: MegamanScrollView_57
+  - first:
+      213: 2428443557500262553
+    second: MegamanScrollView_58
+  - first:
+      213: 8910294705149654976
+    second: MegamanScrollView_59
+  - first:
+      213: -4193580217603102025
+    second: MegamanScrollView_60
+  - first:
+      213: -5463835944866281656
+    second: MegamanScrollView_61
+  - first:
+      213: -7543164971000449385
+    second: MegamanScrollView_62
+  - first:
+      213: -6111534666916112022
+    second: MegamanScrollView_63
+  - first:
+      213: 6142224198660297441
+    second: MegamanScrollView_64
+  - first:
+      213: -5480696111122253971
+    second: MegamanScrollView_65
+  - first:
+      213: -8920834447811948389
+    second: MegamanScrollView_66
+  - first:
+      213: -4007680539432857817
+    second: MegamanScrollView_67
+  - first:
+      213: 1563020755655078568
+    second: MegamanScrollView_68
+  - first:
+      213: -879363376951203151
+    second: MegamanScrollView_69
+  - first:
+      213: 2208161555723895186
+    second: MegamanScrollView_70
+  - first:
+      213: 6289028565617559901
+    second: MegamanScrollView_71
+  - first:
+      213: 8411390293912723136
+    second: MegamanScrollView_72
+  - first:
+      213: 4164801059877285310
+    second: MegamanScrollView_73
+  - first:
+      213: 1348190702133497204
+    second: MegamanScrollView_74
+  - first:
+      213: 7090448592554155451
+    second: MegamanScrollView_75
+  - first:
+      213: 2674422430538216748
+    second: MegamanScrollView_76
+  - first:
+      213: -4904832700725449246
+    second: MegamanScrollView_77
+  - first:
+      213: -1615631596450817888
+    second: MegamanScrollView_78
+  - first:
+      213: 3941951920775878782
+    second: MegamanScrollView_79
+  - first:
+      213: 9108178973433509106
+    second: MegamanScrollView_80
+  - first:
+      213: -6770761667892578754
+    second: MegamanScrollView_81
+  - first:
+      213: 42620725135939920
+    second: MegamanScrollView_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegamanScrollView_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b05666dd7c20330800000000000000
+      internalID: 3675719999607343884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 417
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c8790e4565ed60800000000000000
+      internalID: 7918846905641650193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 416
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f93e08d399f61a0800000000000000
+      internalID: -6814059221753815176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 414
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdbb993853153ae0800000000000000
+      internalID: -1570327625424192061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 413
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac8cc203824a460800000000000000
+      internalID: 7251965487348239100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 413
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf9e83cea770cb80800000000000000
+      internalID: -8376563714420203585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c25d20b1334d420800000000000000
+      internalID: 2653802271532723305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc4fade7353e890800000000000000
+      internalID: -7430003155926725524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 376
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac6f9f96f9ec070800000000000000
+      internalID: 8128609654964406951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 376
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda78c59e1152950800000000000000
+      internalID: 6423560137491328491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 372
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39b1875cadd1b5d0800000000000000
+      internalID: -3048411740480882371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 375
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b753340a8e521440800000000000000
+      internalID: 4905086891028862898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 376
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728810414d6f39f50800000000000000
+      internalID: 6887119645908764711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 376
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996b44a3cd44984d0800000000000000
+      internalID: -3131896353198393703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63439513327699f70800000000000000
+      internalID: 9194493515103024182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 338
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330e8e0936623aa0800000000000000
+      internalID: -6182766943182912705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 332
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e5ba9f7e890fde0800000000000000
+      internalID: -1301372170216448379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 337
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a669b5faefda4840800000000000000
+      internalID: 5209222119245309605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f6be67bd249b250800000000000000
+      internalID: 5960869092161974124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920f7b9cc3dde450800000000000000
+      internalID: 6119780344401953424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 341
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3c81b7fd1bc6a0800000000000000
+      internalID: -6428011093468365510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10759e6a92c39190800000000000000
+      internalID: -7956802148097495009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b39a8e94fee2e0800000000000000
+      internalID: -2094467814913757139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 298
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ffdc4964ed7d60800000000000000
+      internalID: 7889713263135421528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf0447663c2dcd0800000000000000
+      internalID: -2534748795451671397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 294
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba3061c016643b0800000000000000
+      internalID: -5528624788013863948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 294
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680fa130b7575cbe0800000000000000
+      internalID: -1457629733190963066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 294
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128c327de4346760800000000000000
+      internalID: 7450137878006104601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 291
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251551c3ff7d1ccf0800000000000000
+      internalID: -233668214421892782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c44f803b8b6d60800000000000000
+      internalID: 7884548613320524945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 291
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae820ecc522265e0800000000000000
+      internalID: -1917932709317800281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 291
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740703d589df35f00800000000000000
+      internalID: 1104505164476215367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 291
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c25d698ee2a2a10800000000000000
+      internalID: 1885370970505817152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 291
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f09ca724080520800000000000000
+      internalID: 2668387347662434843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c33400d4939d90800000000000000
+      internalID: -7092161367033790041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 258
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de8e9a50e405ef0800000000000000
+      internalID: -121511403706585818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 258
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c0402063cde390800000000000000
+      internalID: -7787353363028326756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 258
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff5a4c09a106080800000000000000
+      internalID: -9196321230013726763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 258
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361355522e67d6660800000000000000
+      internalID: 7380686077991137635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 258
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fda0131299dfa00800000000000000
+      internalID: 791957477322841863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 258
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95099c79fdb4980800000000000000
+      internalID: -8553497224245388894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac1c227f8dc432c0800000000000000
+      internalID: -4452708115583066976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 214
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519beecbdac781ef0800000000000000
+      internalID: -137222702993852139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 214
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14947e0cd726260800000000000000
+      internalID: 7089367030902112743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 214
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf90e1ef6cbb5900800000000000000
+      internalID: 674339757939007409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 214
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40bfad52fb40aa0800000000000000
+      internalID: -6195617018046380849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d9bc560b72b3a0800000000000000
+      internalID: -6651118432417098839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 169
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc529f9560f79bc80800000000000000
+      internalID: -8306468372452137524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 173
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc17cd68b96eb90800000000000000
+      internalID: -7212906749660901593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_49
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 176
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7c6c744733c600800000000000000
+      internalID: 487293951970933793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e4f7c3bb7811e0800000000000000
+      internalID: -2226894003650632481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3617c28e2cf76f1b0800000000000000
+      internalID: -5623166609629875869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 185
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f2a4824261a740800000000000000
+      internalID: 5161514685775934966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 185
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62828801199127a80800000000000000
+      internalID: -8470679838292170714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c877dc2c6e8bc910800000000000000
+      internalID: 1858735866480392385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc18ccc925256b0800000000000000
+      internalID: -5309090177316958827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e240ba6b0689d81e0800000000000000
+      internalID: -2193929902310620114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 118
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41ee80b2eaa1160800000000000000
+      internalID: 6997096470930134244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 118
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99893e19c8093b120800000000000000
+      internalID: 2428443557500262553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73d7853d9b7ab70800000000000000
+      internalID: 8910294705149654976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba69a8b2096dc5c0800000000000000
+      internalID: -4193580217603102025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8470c33282e8c24b0800000000000000
+      internalID: -5463835944866281656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 125
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796395d9c6b415790800000000000000
+      internalID: -7543164971000449385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69daf9c9977f2ba0800000000000000
+      internalID: -6111534666916112022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e294f3ad509d3550800000000000000
+      internalID: 6142224198660297441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 78
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6771b6cce7a0f3b0800000000000000
+      internalID: -5480696111122253971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d9169554d23480800000000000000
+      internalID: -8920834447811948389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fcbd178cbd168c0800000000000000
+      internalID: -4007680539432857817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a232659817f0b510800000000000000
+      internalID: 1563020755655078568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 60
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae550faafdbc3f0800000000000000
+      internalID: -879363376951203151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 61
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c89f4c37f4ae10800000000000000
+      internalID: 2208161555723895186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 57
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594be3e82e174750800000000000000
+      internalID: 6289028565617559901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 39
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce16d728e24bb470800000000000000
+      internalID: 8411390293912723136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_73
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebde7267f785cc930800000000000000
+      internalID: 4164801059877285310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 39
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dc622fc4cb5b210800000000000000
+      internalID: 1348190702133497204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbddb599d65566260800000000000000
+      internalID: 7090448592554155451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 39
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c253197e7057d1520800000000000000
+      internalID: 2674422430538216748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2a8645a88eebb0800000000000000
+      internalID: -4904832700725449246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_78
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 19
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d6ad7f9f1499e0800000000000000
+      internalID: -1615631596450817888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d387f260a4b630800000000000000
+      internalID: 3941951920775878782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_80
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4bf26e480c66e70800000000000000
+      internalID: 9108178973433509106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367e66d22c6902a0800000000000000
+      internalID: -6770761667892578754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamanScrollView_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591ccdd25b679000800000000000000
+      internalID: 42620725135939920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

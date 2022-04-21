@@ -1,0 +1,2868 @@
+fileFormatVersion: 2
+guid: 21e0c955ef9f6504dbf3213a47c918c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3815152422642937212
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_0
+  - first:
+      213: -2228358477568814560
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_1
+  - first:
+      213: 5186706112570498069
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_2
+  - first:
+      213: -2125057850629288614
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_3
+  - first:
+      213: -5461291650572092245
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_4
+  - first:
+      213: -6434544202595740910
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_5
+  - first:
+      213: 7951164991172804164
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_6
+  - first:
+      213: 2762849261407066679
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_7
+  - first:
+      213: 620905389082081518
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_8
+  - first:
+      213: -5336244161924440331
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_9
+  - first:
+      213: -230252669084030975
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_10
+  - first:
+      213: -7860470132879760098
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_11
+  - first:
+      213: 5605171657465606281
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_12
+  - first:
+      213: 9093960442975165317
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_13
+  - first:
+      213: 4679990699522153585
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_14
+  - first:
+      213: 8914306201065047732
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_15
+  - first:
+      213: -7032615416729032946
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_16
+  - first:
+      213: -8304435750625131227
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_17
+  - first:
+      213: -5857921088949844743
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_18
+  - first:
+      213: 3748328819045265655
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_19
+  - first:
+      213: 3839352527785393966
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_20
+  - first:
+      213: -4007831768697664473
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_21
+  - first:
+      213: -373274360012346098
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_22
+  - first:
+      213: -5344465958189478777
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_23
+  - first:
+      213: -8243913726982839469
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_24
+  - first:
+      213: -3747114736500332910
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_25
+  - first:
+      213: 774539007476960336
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_26
+  - first:
+      213: -8650843560577486676
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_27
+  - first:
+      213: 4341922522059057325
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_28
+  - first:
+      213: 3462219844413853100
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_29
+  - first:
+      213: 5690184650833752293
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_30
+  - first:
+      213: -1146656975366414896
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_31
+  - first:
+      213: 2575381324058962696
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_32
+  - first:
+      213: 3137038592776469178
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_33
+  - first:
+      213: -5836788317138233134
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_34
+  - first:
+      213: -4619882327425056132
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_35
+  - first:
+      213: -5023835315189417017
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_36
+  - first:
+      213: 4532515681857803646
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_37
+  - first:
+      213: -8628916542055850794
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_38
+  - first:
+      213: 8366029689672990893
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_39
+  - first:
+      213: 1116884938044040584
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_40
+  - first:
+      213: -9163893280083320792
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_41
+  - first:
+      213: 4128905026349045120
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_42
+  - first:
+      213: -5858360331030002006
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_43
+  - first:
+      213: -5774860316014393137
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_44
+  - first:
+      213: -3780279658613278871
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_45
+  - first:
+      213: 8112555250458741390
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_46
+  - first:
+      213: -8429924185048463158
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_47
+  - first:
+      213: -2326295403932956778
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_48
+  - first:
+      213: 1421786939577257333
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_49
+  - first:
+      213: -3927405337181306804
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_50
+  - first:
+      213: -4314459027903499072
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_51
+  - first:
+      213: 93139950704259479
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_52
+  - first:
+      213: 2667652883880888689
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_53
+  - first:
+      213: 8322567221126017383
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_54
+  - first:
+      213: 9111807464310096141
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_55
+  - first:
+      213: 6781135955828661745
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_56
+  - first:
+      213: 1323961143049674630
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_57
+  - first:
+      213: -7588427790571205985
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_58
+  - first:
+      213: 4277287744292371043
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_59
+  - first:
+      213: 4330983911070739297
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_60
+  - first:
+      213: 8781450548283800644
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_61
+  - first:
+      213: 6117060407793938605
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_62
+  - first:
+      213: 8654673078894163423
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_63
+  - first:
+      213: -610761991549132666
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_64
+  - first:
+      213: 1997548876784964011
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_65
+  - first:
+      213: 4614684767839398188
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_66
+  - first:
+      213: 5795198512357800853
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_67
+  - first:
+      213: 7698806261520118838
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_68
+  - first:
+      213: 4562473875296121058
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_69
+  - first:
+      213: 5835550300332583449
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_70
+  - first:
+      213: 4969553933395122589
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_71
+  - first:
+      213: 3062869118041423439
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_72
+  - first:
+      213: -1966204155448514049
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_73
+  - first:
+      213: 2904096522091425735
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_74
+  - first:
+      213: 1543774902434389867
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_75
+  - first:
+      213: 1897116639448600177
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_76
+  - first:
+      213: 1314938581496539569
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_77
+  - first:
+      213: -3191316555237448807
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_78
+  - first:
+      213: 5111938237294714472
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_79
+  - first:
+      213: 2936443441900874336
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_80
+  - first:
+      213: -4627381502872147696
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_81
+  - first:
+      213: -874499611837340697
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_82
+  - first:
+      213: -3756616428138281035
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_83
+  - first:
+      213: -8293748427357911428
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_84
+  - first:
+      213: 4129883806989794053
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_85
+  - first:
+      213: 2312052394331071140
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_86
+  - first:
+      213: 393708264003717240
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_87
+  - first:
+      213: 5003551883420241630
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_88
+  - first:
+      213: 8360357042689273229
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_89
+  - first:
+      213: -2070233546263730596
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_90
+  - first:
+      213: -8661956067845988949
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_91
+  - first:
+      213: -7485260082680149310
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_92
+  - first:
+      213: -3634730774625329387
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_93
+  - first:
+      213: -3865785941779912873
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_94
+  - first:
+      213: 1680270452062179938
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_95
+  - first:
+      213: -6435556263622467508
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_96
+  - first:
+      213: -6979712054186620977
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_97
+  - first:
+      213: 9065656809154500359
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_98
+  - first:
+      213: 2295708117221414205
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_99
+  - first:
+      213: 2993014785411601689
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_100
+  - first:
+      213: 3468306033143557311
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_101
+  - first:
+      213: -4214862551445956845
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_102
+  - first:
+      213: -1880471579473077000
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_103
+  - first:
+      213: -9136531451411508749
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_104
+  - first:
+      213: 2226042505534963024
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_105
+  - first:
+      213: -854842545315600415
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_106
+  - first:
+      213: -3133261883255153160
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_107
+  - first:
+      213: -8134116147644486108
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_108
+  - first:
+      213: -5929961851637478872
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_109
+  - first:
+      213: -4836215799475255106
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_110
+  - first:
+      213: 2988076647744556277
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_111
+  - first:
+      213: 7785939264439922530
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_112
+  - first:
+      213: 7377398537066326670
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_113
+  - first:
+      213: -1384142973786882154
+    second: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 811
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482956cc51bdd0bc0800000000000000
+      internalID: -3815152422642937212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 815
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d74065c74311e0800000000000000
+      internalID: -2228358477568814560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 819
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9c12aab1eaf740800000000000000
+      internalID: 5186706112570498069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 822
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d0616d4274282e0800000000000000
+      internalID: -2125057850629288614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 826
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacf7d0dd289534b0800000000000000
+      internalID: -5461291650572092245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 818
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2135bb0b328e3b6a0800000000000000
+      internalID: -6434544202595740910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 815
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7061be66385e60800000000000000
+      internalID: 7951164991172804164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 815
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5e1ad3cc975620800000000000000
+      internalID: 2762849261407066679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8fc536926ed9800800000000000000
+      internalID: 620905389082081518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feddb5153ad1f5b0800000000000000
+      internalID: -5336244161924440331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10829aada6afdccf0800000000000000
+      internalID: -230252669084030975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15622a8f000ae290800000000000000
+      internalID: -7860470132879760098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980335ccce199cd40800000000000000
+      internalID: 5605171657465606281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1dfc47dc343e70800000000000000
+      internalID: 9093960442975165317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c562ddebaa2f040800000000000000
+      internalID: 4679990699522153585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 765
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64b85824af5bb70800000000000000
+      internalID: 8914306201065047732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e072ee3f981276e90800000000000000
+      internalID: -7032615416729032946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 716
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254feffea7b0cc80800000000000000
+      internalID: -8304435750625131227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 716
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f400e26ecb74bea0800000000000000
+      internalID: -5857921088949844743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07d80933db40430800000000000000
+      internalID: 3748328819045265655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f752248ce184530800000000000000
+      internalID: 3839352527785393966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0043ad325168c0800000000000000
+      internalID: -4007831768697664473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 716
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de3bf72fcd1daf0800000000000000
+      internalID: -373274360012346098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 716
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc2f7f684a4d5b0800000000000000
+      internalID: -5344465958189478777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 666
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a838b42cb79d80800000000000000
+      internalID: -8243913726982839469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 666
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296244e00039ffbc0800000000000000
+      internalID: -3747114736500332910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 664
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0955af17bfba00800000000000000
+      internalID: 774539007476960336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 656
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0bd44ad9702f780800000000000000
+      internalID: -8650843560577486676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 661
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da82991878b914c30800000000000000
+      internalID: 4341922522059057325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 661
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8898da964c0030800000000000000
+      internalID: 3462219844413853100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 669
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07353cac897fe40800000000000000
+      internalID: 5690184650833752293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 617
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd9f006e814610f0800000000000000
+      internalID: -1146656975366414896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 617
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba5b55ba79db320800000000000000
+      internalID: 2575381324058962696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 617
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf129bafff88b20800000000000000
+      internalID: 3137038592776469178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 617
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d853df33ff8ffea0800000000000000
+      internalID: -5836788317138233134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 617
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7289b91081e2efb0800000000000000
+      internalID: -4619882327425056132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 617
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7214f560c74ab0800000000000000
+      internalID: -5023835315189417017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7595049ffab6ee30800000000000000
+      internalID: 4532515681857803646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcd44a7f1eef3880800000000000000
+      internalID: -8628916542055850794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 567
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da084597dab1a1470800000000000000
+      internalID: 8366029689672990893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 567
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88569130fe8ff7f00800000000000000
+      internalID: 1116884938044040584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 568
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206b093d9f43d080800000000000000
+      internalID: -9163893280083320792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 567
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851cdede31dc4930800000000000000
+      internalID: 4128905026349045120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 567
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa687be515ce2bea0800000000000000
+      internalID: -5858360331030002006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 567
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8467c93239bdfa0800000000000000
+      internalID: -5774860316014393137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 517
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96778b4edafb98bc0800000000000000
+      internalID: -3780279658613278871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 517
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac254a406959070800000000000000
+      internalID: 8112555250458741390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 517
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac846ba0e94e20b80800000000000000
+      internalID: -8429924185048463158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 518
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c3f5c7a657bfd0800000000000000
+      internalID: -2326295403932956778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_49
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 518
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dcac740b33bb310800000000000000
+      internalID: 1421786939577257333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 517
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c55477ad0f79c0800000000000000
+      internalID: -3927405337181306804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 517
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b5d38f56ff14c0800000000000000
+      internalID: -4314459027903499072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 518
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ff1caa46ea4100800000000000000
+      internalID: 93139950704259479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 459
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17944cff928650520800000000000000
+      internalID: 2667652883880888689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 463
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761b682fac2bf7370800000000000000
+      internalID: 8322567221126017383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 463
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c4f3cc94a37e70800000000000000
+      internalID: 9111807464310096141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 459
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fddbcc493f6b1e50800000000000000
+      internalID: 6781135955828661745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 466
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f55eb15a7af5210800000000000000
+      internalID: 1323961143049674630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 475
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0d43312d70b690800000000000000
+      internalID: -7588427790571205985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 459
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36abda89a8afb5b30800000000000000
+      internalID: 4277287744292371043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_60
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 459
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bad4babeeba1c30800000000000000
+      internalID: 4330983911070739297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 415
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7d1f5fbafdd970800000000000000
+      internalID: 8781450548283800644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 407
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f924080a24e450800000000000000
+      internalID: 6117060407793938605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 405
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd57f929f439b1870800000000000000
+      internalID: 8654673078894163423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 402
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680676364332687f0800000000000000
+      internalID: -610761991549132666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 406
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19f36be18b8bb10800000000000000
+      internalID: 1997548876784964011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 414
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292971c857aa0040800000000000000
+      internalID: 4614684767839398188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 417
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b75fbb75eac6050800000000000000
+      internalID: 5795198512357800853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b57c3187a7da60800000000000000
+      internalID: 7698806261520118838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 347
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0760a01d9215f30800000000000000
+      internalID: 4562473875296121058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 344
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6f30841a0cf050800000000000000
+      internalID: 5835550300332583449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 342
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99592cf8f667f440800000000000000
+      internalID: 4969553933395122589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 347
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7f5e2c3f718a20800000000000000
+      internalID: 3062869118041423439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_73
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 355
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9289eecb3a6b4e0800000000000000
+      internalID: -1966204155448514049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_74
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 357
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe4b8766c6d4820800000000000000
+      internalID: 2904096522091425735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd3c038179c6510800000000000000
+      internalID: 1543774902434389867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e01df3889e35a10800000000000000
+      internalID: 1897116639448600177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9ae8b4ca99f3210800000000000000
+      internalID: 1314938581496539569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993af37508a26b3d0800000000000000
+      internalID: -3191316555237448807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e10bb1eb041f640800000000000000
+      internalID: 5111938237294714472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 242
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae681a0c750c820800000000000000
+      internalID: 2936443441900874336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019a7114a0d38cfb0800000000000000
+      internalID: -4627381502872147696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_82
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e7308c372dd3f0800000000000000
+      internalID: -874499611837340697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7cb631341dddbc0800000000000000
+      internalID: -3756616428138281035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7680ea5fbfa6ec80800000000000000
+      internalID: -8293748427357911428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_85
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb34ff07b405930800000000000000
+      internalID: 4129883806989794053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e132276f061020800000000000000
+      internalID: 2312052394331071140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 193
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c315849bb67500800000000000000
+      internalID: 393708264003717240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 194
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede00829def207540800000000000000
+      internalID: 5003551883420241630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_89
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 193
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dedec6f64f50470800000000000000
+      internalID: 8360357042689273229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566ad8ee8d0543e0800000000000000
+      internalID: -2070233546263730596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad100c69dc8ac780800000000000000
+      internalID: -8661956067845988949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca40780d930f1890800000000000000
+      internalID: -7485260082680149310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd64c3e97de8dc0800000000000000
+      internalID: -3634730774625329387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576282fa28f95ac0800000000000000
+      internalID: -3865785941779912873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 145
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26250cdd215815710800000000000000
+      internalID: 1680270452062179938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_96
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402ebedcaf40b6a0800000000000000
+      internalID: -6435556263622467508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 140
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c1b7edd4132f90800000000000000
+      internalID: -6979712054186620977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 147
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707514506deafcd70800000000000000
+      internalID: 9065656809154500359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3596f29e5efbdf10800000000000000
+      internalID: 2295708117221414205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 96
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91553f3f613598920800000000000000
+      internalID: 2993014785411601689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcadd516f5e12030800000000000000
+      internalID: 3468306033143557311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_102
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31797fb37dcc185c0800000000000000
+      internalID: -4214862551445956845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_103
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc1a47cf0937e5e0800000000000000
+      internalID: -1880471579473077000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 86
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1de676d05843180800000000000000
+      internalID: -9136531451411508749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_105
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 84
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df45d5ddd74ee10800000000000000
+      internalID: 2226042505534963024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 82
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a293fb3df224f0800000000000000
+      internalID: -854842545315600415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1e4cfaea6484d0800000000000000
+      internalID: -3133261883255153160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ea1e9c570dd1f80800000000000000
+      internalID: -8134116147644486108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_109
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ac78d3d1b84bda0800000000000000
+      internalID: -5929961851637478872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_110
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8452f8a5f42ecb0800000000000000
+      internalID: -4836215799475255106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc447e21e7c77920800000000000000
+      internalID: 2988076647744556277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_112
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f25b362863d0c60800000000000000
+      internalID: 7785939264439922530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_113
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2350e1e8c16660800000000000000
+      internalID: 7377398537066326670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_megaman-sprite-megaman-sprite-sheet-png-png-download_4317253_114
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f74118c498acce0800000000000000
+      internalID: -1384142973786882154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
