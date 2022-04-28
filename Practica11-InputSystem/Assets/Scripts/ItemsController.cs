@@ -7,6 +7,9 @@ public class ItemsController : MonoBehaviour
 {
     public Text contadorText;
     public int contador;
+    public Touch toque;
+   
+
     void Start()
     {
         
@@ -16,13 +19,63 @@ public class ItemsController : MonoBehaviour
     void Update()
     {
         contadorText.text = contador.ToString();
+        TouchItems();
+        
     }
 
-    void OnTriggerEnter2D(Collider2D colision)
+    void TouchItems()
+    {
+        if (Input.touchCount > 0)
+        {
+            toque = Input.GetTouch(0);
+        }
+
+        Vector2 pos = Camera.main.ScreenToWorldPoint(toque.position);
+        RaycastHit2D hit = Physics2D.Raycast(pos, Vector2.zero);
+        if (hit.collider != null)
+        {
+            if (hit.collider != null)
+            {
+                if (hit.collider.CompareTag("Lasaña"))
+                {
+                    hit.collider.isTrigger = true;
+
+
+                }
+
+
+            }
+
+        }
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            Vector2 posF = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            RaycastHit2D hitR = Physics2D.Raycast(posF, Vector2.zero);
+            if (hitR.collider != null)
+            {
+                if (hitR.collider.CompareTag("Lasaña"))
+                {
+                    hitR.collider.isTrigger = true;
+                   
+
+                }
+
+
+            }
+        }
+    }
+
+
+
+
+
+        void OnTriggerEnter2D(Collider2D colision)
     {
         if(colision.CompareTag("Lasaña"))
         {
             contador += 1;
+            Destroy(colision.gameObject);
         }
     }
 }

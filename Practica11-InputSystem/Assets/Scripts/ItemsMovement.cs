@@ -7,16 +7,19 @@ public class ItemsMovement : MonoBehaviour
     public Transform contenerdorDeItems;
     public bool movimientoActivado;
     public float speedMovement;
-    
+    BoxCollider2D colliderObj;
+    public Touch toque;
+
     void Start()
     {
-        
+        colliderObj = GetComponent<BoxCollider2D>();
     }
 
    
     void Update()
     {
         MoverItem();
+        //TouchItems();
     }
 
     public void MoverItem()
@@ -45,10 +48,40 @@ public class ItemsMovement : MonoBehaviour
             }
         }
 
-
+        if(colliderObj.isTrigger)
+        {
+            movimientoActivado = true;
+        }
         
     }
 
+    //void TouchItems()
+    //{
+    //    if (Input.touchCount > 0)
+    //    {
+    //        toque = Input.GetTouch(0);
+    //    }
+
+    //    Vector2 pos = Camera.main.ScreenToWorldPoint(toque.position);
+    //    RaycastHit2D hit = Physics2D.Raycast(pos, Vector2.zero);
+    //    if (hit.collider != null)
+    //    {
+    //        movimientoActivado = true;
+    //        Debug.Log("YEES");
+    //    }
+
+    //    if (Input.GetMouseButtonDown(0))
+    //    {
+    //        Vector2 posF = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+    //        RaycastHit2D hitR = Physics2D.Raycast(posF, Vector2.zero);
+    //        if (hitR.collider != null)
+    //        {
+    //            movimientoActivado = true;
+    //            Debug.Log(hitR.point);
+    //        }
+    //    }
+
+    //}
     void OnTriggerEnter2D(Collider2D col)
     {
         if(col.CompareTag("Player"))
