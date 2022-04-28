@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "Lasa\xF1a"
+  - Floor
+  - MetaItem
+  - DeadEmpty
+  - Power1
+  - Enemiw
+  - DamageEnemy
   layers:
   - Default
   - TransparentFX

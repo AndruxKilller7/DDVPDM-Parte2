@@ -8,22 +8,31 @@ public class MBoyMovement : MonoBehaviour
 
     Animator animBoy;
     Rigidbody2D rbBoy;
+    public GameObject power;
+    public Transform pivotP;
     public float fuerzaDeSalto;
+    HUDManager controllerBar;
     public bool enSuelo;
     public float velocidad;
+    Vector2 rot;
     public bool isRun;
     public InputSystemControls inputs;
     Vector2 move;
     public Joystick joy;
 
 
+
     private void Awake()
     {
+        controllerBar = GameObject.Find("Main Camera").GetComponent<HUDManager>();
         InputSystemControls inputs = new InputSystemControls();
         inputs.Enable();
         inputs.Player.Movement.performed += ctx => Walk(ctx.ReadValue<float>());
-        
+        inputs.Player.Movement.canceled += ctx => StopMovement(ctx.ReadValue<float>());
+        inputs.Player.Power.performed += ctx => ShootPower();
+        inputs.Player.Kick.performed += ctx => Attack();
         inputs.Player.Jump.performed += ctx => Jump();
+        
     }
 
     
@@ -38,22 +47,25 @@ public class MBoyMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        rot = new Vector2(transform.rotation.x, transform.rotation.y - 180);
+       
         //move.x = joy.Horizontal;
         JumpVerify();
 
         if(move.x==0)
         {
-            Debug.Log("f");
+            animBoy.SetBool("isWalk", false);
         }
         if(move.x>0)
         {
+            animBoy.SetBool("isWalk", true);
             transform.Translate(Vector3.right * move.x *velocidad * Time.deltaTime);
             transform.rotation = Quaternion.Euler(0, 0, 0);
 
         }
         if(move.x<0)
         {
+            animBoy.SetBool("isWalk", true);
             transform.rotation = Quaternion.Euler(0, 180, 0);
             transform.Translate(Vector3.left * move.x *velocidad* Time.deltaTime);
         }
@@ -69,16 +81,22 @@ public class MBoyMovement : MonoBehaviour
         //Run();
     }
 
-    public void ActivarMovement()
+    public void StopMovement(float value)
     {
-
+        move.x = 0;
     }
     
+    public void ShootPower()
+    {
+        animBoy.SetTrigger("isPower");
+        Instantiate(power, pivotP.transform.position,transform.rotation);
+    }
+
     public void Walk(float value)
     {
        
         move.x = value;
-        animBoy.SetBool("isWalk", true);
+       
         //if (Input.GetKey(KeyCode.D))
         //{
         //    animBoy.SetBool("isWalk", true);
@@ -132,10 +150,9 @@ public class MBoyMovement : MonoBehaviour
 
     public void Attack()
     {
-        //if(Input.GetMouseButtonDown(0))
-        //{
-        //    animBoy.SetTrigger("isAttack");
-        //}
+       
+        animBoy.SetTrigger("isAttack");
+       
     }
 
     public void Dead()
@@ -188,6 +205,12 @@ public class MBoyMovement : MonoBehaviour
         {
             enSuelo = true;
         }
+
+        //if (collision.gameObject.CompareTag("Enemie1"))
+        //{
+            
+        //}
+
     }
 
    
@@ -198,5 +221,12 @@ public class MBoyMovement : MonoBehaviour
         {
             SceneManager.LoadScene(4);
         }
+
+        if (collision.CompareTag("DamageEnemy"))
+        {
+            Debug.Log("asad");
+            controllerBar.DisminuirVida();
+        }
     }
+
 }
