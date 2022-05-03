@@ -19,6 +19,11 @@ public class MBoyMovement : MonoBehaviour
     public InputSystemControls inputs;
     Vector2 move;
     public Joystick joy;
+    public Touch toque;
+    Vector2 posInicial;
+    Vector2 posInicial2;
+    float swipeMinY=0.5f;
+    float swipeMinX=0.5f;
 
 
 
@@ -48,10 +53,11 @@ public class MBoyMovement : MonoBehaviour
     void Update()
     {
         rot = new Vector2(transform.rotation.x, transform.rotation.y - 180);
-       
-        //move.x = joy.Horizontal;
-        JumpVerify();
 
+        //move.x = joy.Horizontal;
+        TouchJump();
+        JumpVerify();
+        //TouchAttack();
         if(move.x==0)
         {
             animBoy.SetBool("isWalk", false);
@@ -69,6 +75,7 @@ public class MBoyMovement : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 180, 0);
             transform.Translate(Vector3.left * move.x *velocidad* Time.deltaTime);
         }
+        
        
         
         //if (move.x > 0.01f)
@@ -117,6 +124,125 @@ public class MBoyMovement : MonoBehaviour
 
 
     }
+
+    public void TouchJump()
+    {
+        if (Input.touchCount > 0)
+        {
+            toque = Input.GetTouch(0);
+            if (toque.phase == TouchPhase.Began)
+            {
+                posInicial = toque.position;
+            }
+            else if (toque.phase == TouchPhase.Ended)
+            {
+                float swipeVertical = (new Vector3(0, toque.position.y, 0) - new Vector3(0, posInicial.y, 0)).magnitude;
+                float swipeHorizontal = (new Vector3(toque.position.x, 0, 0) - new Vector3(posInicial.x, 0, 0)).magnitude;
+                if (swipeVertical > swipeMinY && swipeVertical > swipeHorizontal)
+                {
+                    float u = Mathf.Sign(toque.position.y - posInicial.y);
+                    if (u > 0)
+                    {
+                        Jump();
+                    }
+
+                }
+
+                else if (swipeHorizontal > swipeMinX && swipeHorizontal > swipeVertical)
+                {
+                    float u = Mathf.Sign(toque.position.x - posInicial.x);
+                    if (u > 0)
+                    {
+                        transform.rotation = Quaternion.Euler(0, 0, 0);
+                        ShootPower();
+                    }
+                    if (u < 0)
+                    {
+                        transform.rotation = Quaternion.Euler(0, 180, 0);
+                        ShootPower();
+                    }
+
+                }
+            }
+
+
+
+        }
+        if (Input.GetMouseButtonDown(0))
+        {
+            posInicial2 = new Vector3(Input.mousePosition.x, Input.mousePosition.y);
+          
+        }
+        if (Input.GetMouseButtonUp(0))
+        {
+            float swipeVertical2 = (new Vector3(0, Input.mousePosition.y, 0) - new Vector3(0, posInicial2.y, 0)).magnitude;
+            float swipeHorizontal2 = (new Vector3(Input.mousePosition.x, 0, 0) - new Vector3(posInicial2.x, 0, 0)).magnitude;
+            if (swipeVertical2 > swipeMinY && swipeVertical2 > swipeHorizontal2)
+            {
+                float u = Mathf.Sign(Input.mousePosition.y - posInicial2.y);
+                if (u > 0)
+                {
+                    Debug.Log("Arriba");
+                    Jump();
+                }
+            }
+            else if(swipeHorizontal2 > swipeMinX && swipeHorizontal2 > swipeVertical2)
+            {
+                float u = Mathf.Sign(Input.mousePosition.x - posInicial2.x);
+                if (u > 0)
+                {
+                    Debug.Log("Derecha");
+                    transform.rotation = Quaternion.Euler(0, 0, 0);
+                    ShootPower();
+                }
+                if (u < 0)
+                {
+                    Debug.Log("Izquirda");
+                    transform.rotation = Quaternion.Euler(0, 180, 0);
+                    ShootPower();
+                }
+            }
+        }
+
+    }
+    
+    public void TouchAttack()
+    {
+        if (Input.touchCount > 0)
+        {
+            toque = Input.GetTouch(0);
+            if (toque.phase == TouchPhase.Began)
+            {
+                posInicial = toque.position;
+            }
+            else if (toque.phase == TouchPhase.Ended)
+            {
+                //float swipeVertical = (new Vector3(0, toque.position.y, 0) - new Vector3(0, posInicial.y, 0)).magnitude;
+                float swipeHorizontal = (new Vector3(toque.position.x, 0, 0) - new Vector3(posInicial.x, 0, 0)).magnitude;
+                if (swipeHorizontal > swipeMinX )
+                {
+                    float u = Mathf.Sign(toque.position.x - posInicial.x);
+                    if (u > 0)
+                    {
+                        transform.rotation = Quaternion.Euler(0, 0, 0);
+                        ShootPower();
+                    }
+                    if (u < 0)
+                    {
+                        transform.rotation = Quaternion.Euler(0, 180, 0);
+                        ShootPower();
+                    }
+
+                }
+            }
+
+
+
+        }
+    }
+
+
+
 
     public void Jump()
     {
