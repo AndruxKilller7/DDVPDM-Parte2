@@ -55,7 +55,7 @@ public class MBoyMovement : MonoBehaviour
         rot = new Vector2(transform.rotation.x, transform.rotation.y - 180);
 
         //move.x = joy.Horizontal;
-        TouchJump();
+        //TouchJump();
         JumpVerify();
         //TouchAttack();
         if(move.x==0)
