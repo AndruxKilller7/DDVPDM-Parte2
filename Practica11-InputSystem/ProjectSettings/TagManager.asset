@@ -11,6 +11,8 @@ TagManager:
   - Power1
   - Enemiw
   - DamageEnemy
+  - IceFloor
+  - Casa
   layers:
   - Default
   - TransparentFX

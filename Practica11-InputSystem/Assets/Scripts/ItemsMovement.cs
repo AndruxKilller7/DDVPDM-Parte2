@@ -48,10 +48,7 @@ public class ItemsMovement : MonoBehaviour
             }
         }
 
-        if(colliderObj.isTrigger)
-        {
-            movimientoActivado = true;
-        }
+      
         
     }
 

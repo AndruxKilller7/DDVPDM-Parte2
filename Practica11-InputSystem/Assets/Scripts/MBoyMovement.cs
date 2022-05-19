@@ -353,6 +353,11 @@ public class MBoyMovement : MonoBehaviour
             Debug.Log("asad");
             controllerBar.DisminuirVida();
         }
+        if (collision.CompareTag("Casa"))
+        {
+            SceneManager.LoadScene(4);
+        }
+
     }
 
 }

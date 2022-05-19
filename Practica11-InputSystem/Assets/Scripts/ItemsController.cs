@@ -38,7 +38,7 @@ public class ItemsController : MonoBehaviour
             {
                 if (hit.collider.CompareTag("Lasaña"))
                 {
-                    hit.collider.isTrigger = true;
+                    hit.collider.transform.gameObject.GetComponent<ItemsMovement>().movimientoActivado = true;
 
 
                 }
@@ -56,7 +56,7 @@ public class ItemsController : MonoBehaviour
             {
                 if (hitR.collider.CompareTag("Lasaña"))
                 {
-                    hitR.collider.isTrigger = true;
+                    hitR.collider.transform.gameObject.GetComponent<ItemsMovement>().movimientoActivado=true;
                    
 
                 }
