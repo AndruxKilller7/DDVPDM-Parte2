@@ -23,6 +23,7 @@ public class EfectoParallax : MonoBehaviour
     {
         float deltaX = (posicioncamara.position.x - posicionInicialCamara.x)*velocidadDeMovimiento;
         float cantidadDeMovimiento = posicioncamara.position.x * (1 - velocidadDeMovimiento);
+
         transform.Translate(new Vector3(deltaX, 0, 0));
         posicionInicialCamara = posicioncamara.position;
 
