@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemieGhost : MonoBehaviour
 {
@@ -14,7 +15,8 @@ public class EnemieGhost : MonoBehaviour
     float max;
     float min;
     public bool isDetected;
-
+    public float vida;
+    public Image barlife;
     void Start()
     {
         animEn = GetComponent<Animator>();
@@ -26,6 +28,15 @@ public class EnemieGhost : MonoBehaviour
    
     void Update()
     {
+        
+        vida = Mathf.Clamp(vida, 0, 100);
+        barlife.fillAmount = vida / 100;
+
+        if (vida<=0)
+        {
+            Destroy(this.gameObject);
+        }
+
         if(isDetected==false)
         {
             if (ping)
@@ -73,7 +84,10 @@ public class EnemieGhost : MonoBehaviour
     {
         if(collision.CompareTag("Power1"))
         {
+            Destroy(collision.gameObject);
             animEn.SetTrigger("isDamage");
+            vida -= 50;
+
         }
     }
 

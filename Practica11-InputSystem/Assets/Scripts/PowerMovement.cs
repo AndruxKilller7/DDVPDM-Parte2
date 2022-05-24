@@ -5,7 +5,8 @@ using UnityEngine;
 public class PowerMovement : MonoBehaviour
 {
     public float velocidad;
-Animator anim;
+    public GameObject explosionEffect;
+    Animator anim;
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -21,10 +22,12 @@ Animator anim;
     
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Enemiw"))
+        if (collision.CompareTag("Enemiw") || collision.CompareTag("Wall"))
         {
+           
             anim.SetTrigger("Damage");
-            Destroy(this.gameObject, 0.2f);
+            Destroy(this.gameObject);
+            Instantiate(explosionEffect,transform.position,transform.rotation);
         }
     }
 }

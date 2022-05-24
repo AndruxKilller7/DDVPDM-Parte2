@@ -24,6 +24,8 @@ public class MBoyMovement : MonoBehaviour
     Vector2 posInicial2;
     float swipeMinY=0.5f;
     float swipeMinX=0.5f;
+    public float fireRate;
+    public float nextFire;
 
 
 
@@ -95,8 +97,14 @@ public class MBoyMovement : MonoBehaviour
     
     public void ShootPower()
     {
-        animBoy.SetTrigger("isPower");
-        Instantiate(power, pivotP.transform.position,transform.rotation);
+      
+        if(Time.time>= nextFire)
+        {
+            nextFire = Time.time + fireRate;
+            animBoy.SetTrigger("isPower");
+            Instantiate(power, pivotP.transform.position, transform.rotation);
+        }
+      
     }
 
     public void Walk(float value)
