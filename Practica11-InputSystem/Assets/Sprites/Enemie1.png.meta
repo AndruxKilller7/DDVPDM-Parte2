@@ -117,6 +117,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -844,6 +845,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Enemie1_6: -5079450285974417585
+      Enemie1_10: -37480615323942108
+      Enemie1_14: 8496784342118372538
+      Enemie1_20: 5254283336811024032
+      Enemie1_4: -867768543636972094
+      Enemie1_24: -6902627786031277322
+      Enemie1_11: 1885470448694785143
+      Enemie1_9: 1265466131384162842
+      Enemie1_12: -7486460102881185280
+      Enemie1_1: 5916282555589683309
+      Enemie1_15: 2963045650025402510
+      Enemie1_21: -6427868499546290697
+      Enemie1_8: 6220883428711886886
+      Enemie1_19: 4551020480363309275
+      Enemie1_22: -4493600208505885026
+      Enemie1_27: 6825469542506963707
+      Enemie1_28: -7992343036904912354
+      Enemie1_7: 1022243774362937187
+      Enemie1_5: -2235776805025127509
+      Enemie1_29: 4147208717459810050
+      Enemie1_18: -1575509820810778813
+      Enemie1_30: 6065054531443493238
+      Enemie1_25: 5401410270091144231
+      Enemie1_2: 4621827475101326205
+      Enemie1_3: 3174278422651851375
+      Enemie1_0: -4425318085533987620
+      Enemie1_23: -2683433720666470178
+      Enemie1_13: -6474729210437121720
+      Enemie1_17: 4280577253875734154
+      Enemie1_26: 879560573828233443
+      Enemie1_16: -2312550009102044886
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

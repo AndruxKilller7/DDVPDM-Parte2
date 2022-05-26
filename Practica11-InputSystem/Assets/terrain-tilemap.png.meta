@@ -75,6 +75,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -856,6 +857,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      terrain-tilemap_8: -7456166193575224696
+      terrain-tilemap_9: -3669121997459289817
+      terrain-tilemap_14: -5181802811604341976
+      terrain-tilemap_25: -5745559683027503473
+      terrain-tilemap_31: 3962805389735043170
+      terrain-tilemap_0: 6533663886572878081
+      terrain-tilemap_12: 1253901677155640022
+      terrain-tilemap_26: 8537919325903280774
+      terrain-tilemap_3: -3234697679444537665
+      terrain-tilemap_27: 7237326062514534387
+      terrain-tilemap_7: -1662018214563627616
+      terrain-tilemap_13: -7234702397438973738
+      terrain-tilemap_16: 6822080357859942780
+      terrain-tilemap_1: 2530651478906388526
+      terrain-tilemap_21: 1178982897665479993
+      terrain-tilemap_17: 2441306888246005943
+      terrain-tilemap_6: 3887530504041423976
+      terrain-tilemap_10: 6035990181486173583
+      terrain-tilemap_32: -4118496185611234158
+      terrain-tilemap_18: -2824276435363273296
+      terrain-tilemap_23: 1077003251675603462
+      terrain-tilemap_2: 5843216221919036836
+      terrain-tilemap_15: -2007310387270419735
+      terrain-tilemap_19: -1715070953935616882
+      terrain-tilemap_22: 1770690339088950668
+      terrain-tilemap_4: -3527752491119420898
+      terrain-tilemap_11: 3663557431822047252
+      terrain-tilemap_24: -4493748606797703244
+      terrain-tilemap_5: 656460438491199414
+      terrain-tilemap_20: 3218302518652369929
+      terrain-tilemap_28: -1270928807570655989
+      terrain-tilemap_30: -6006499455200705737
+      terrain-tilemap_29: 8354582460323878030
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

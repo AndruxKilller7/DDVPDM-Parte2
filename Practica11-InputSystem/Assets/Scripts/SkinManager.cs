@@ -1,24 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Experimental.U2D.Animation;
+
 
 
 public class SkinManager : MonoBehaviour
 {
     public DatesP character1;
     public DatesP character2;
-    private SpriteResolver head;
-    private SpriteResolver leftarm;
-    private SpriteResolver rightarm;
-    private SpriteResolver lefthand;
-    private SpriteResolver righthand;
-    private SpriteResolver leftleg;
-    private SpriteResolver rightleg;
-    private SpriteResolver leftfoot;
-    private SpriteResolver rightfoot;
-    private SpriteResolver hair;
-    private SpriteResolver body;
+    private UnityEngine.U2D.Animation.SpriteResolver head;
+    private UnityEngine.U2D.Animation.SpriteResolver leftarm;
+    private UnityEngine.U2D.Animation.SpriteResolver rightarm;
+    private UnityEngine.U2D.Animation.SpriteResolver lefthand;
+    private UnityEngine.U2D.Animation.SpriteResolver righthand;
+    private UnityEngine.U2D.Animation.SpriteResolver leftleg;
+    private UnityEngine.U2D.Animation.SpriteResolver rightleg;
+    private UnityEngine.U2D.Animation.SpriteResolver leftfoot;
+    private UnityEngine.U2D.Animation.SpriteResolver rightfoot;
+    private UnityEngine.U2D.Animation.SpriteResolver hair;
+    private UnityEngine.U2D.Animation.SpriteResolver body;
 
     
 
@@ -26,17 +26,17 @@ public class SkinManager : MonoBehaviour
 
     void Start()
     {
-        head = GameObject.Find("head_0").GetComponent<SpriteResolver>();
-        leftarm = GameObject.Find("arm_r").GetComponent<SpriteResolver>();
-        rightarm = GameObject.Find("arm_l").GetComponent<SpriteResolver>();
-        leftleg = GameObject.Find("leg_r").GetComponent<SpriteResolver>();
-        rightleg = GameObject.Find("leg_l").GetComponent<SpriteResolver>();
-        leftfoot = GameObject.Find("foot_r").GetComponent<SpriteResolver>();
-        rightfoot = GameObject.Find("foot_l").GetComponent<SpriteResolver>();
-        lefthand = GameObject.Find("hand_r").GetComponent<SpriteResolver>();
-        righthand = GameObject.Find("hand_l").GetComponent<SpriteResolver>();
-        hair = GameObject.Find("hair").GetComponent<SpriteResolver>();
-        body = GameObject.Find("body").GetComponent<SpriteResolver>();
+        head = GameObject.Find("head_0").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        leftarm = GameObject.Find("arm_r").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        rightarm = GameObject.Find("arm_l").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        leftleg = GameObject.Find("leg_r").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        rightleg = GameObject.Find("leg_l").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        leftfoot = GameObject.Find("foot_r").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        rightfoot = GameObject.Find("foot_l").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        lefthand = GameObject.Find("hand_r").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        righthand = GameObject.Find("hand_l").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        hair = GameObject.Find("hair").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
+        body = GameObject.Find("body").GetComponent<UnityEngine.U2D.Animation.SpriteResolver>();
     }
 
   
