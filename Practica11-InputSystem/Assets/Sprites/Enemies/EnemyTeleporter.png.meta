@@ -1,0 +1,1762 @@
+fileFormatVersion: 2
+guid: 618dd75a2d1555944853f74915f96104
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyTeleporter_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 793
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5779b79f266b8c4cb9fe04e50954740
+      internalID: 328421978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 793
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf43d4e021d2d443893a06e8eccbea6
+      internalID: -1279986004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 793
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192c184632aa0d44abc6453a0fa0ee7
+      internalID: 1272213326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 791
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b55fa699e86074382a6dca623fff20
+      internalID: -667128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9dea6ddf04e1408f6500960db8de8
+      internalID: 189816202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 726
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47c4a133977664e8a0560feb53dbf3
+      internalID: 406388734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 728
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a4c787bc5f3843bb152867d3adcad
+      internalID: -182541395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 728
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6a9136ae5a3a4da1862a218c70856
+      internalID: 617933373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 726
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7e8daf564e6a458d702fe0a6e1d41
+      internalID: -339247304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 728
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbdf223c9e82bd429090b71812ef006
+      internalID: 164941757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 661
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f8d078b902dcf4e81eef6f46893337
+      internalID: -871289616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 660
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8073ad76cdb1f43a187957112c62a5
+      internalID: 1572551590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 661
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131cdb2afae4054987c23dcf01284d7
+      internalID: 1830019013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 662
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda436d9441625446a0ac0229c03d6ae
+      internalID: 1380848863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 660
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa48bae3fdf029e47be791c74a93e8d4
+      internalID: 1637560370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 660
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364967765cddb1140b55f7b4014baaeb
+      internalID: -1719175694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 594
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c308c82175b1c44aeae5d7790b6b1e
+      internalID: 143328628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 595
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62c447550a2c804abef270e9adec566
+      internalID: -976414940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 593
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef73fa1ff01e854aaed50c59c74576b
+      internalID: 372245045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 594
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d597dee4f82243b747fbd6b12d8fd
+      internalID: -1831683432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 594
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b09b58f9377db4da0b2cc61ea88899
+      internalID: -1202927163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cafc3a0166c9b448a319202397fea03
+      internalID: 613695722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 526
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c80fe27bb3bb9418dd3a4ac946ce44
+      internalID: 147193911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 527
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a522222cdb4d4baf6d0f6ee3e2027
+      internalID: 1065383356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 527
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b553c24d1beddb409a222441f6493ed
+      internalID: -1828105063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 529
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18a4671d03e5274381f284ccf735aee
+      internalID: -1328372675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 460
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ed789044bfd547838216ea447f533
+      internalID: -1632800252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731ff816a5b1f74996ff3c2c9bbaf7b
+      internalID: -1206068920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 464
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be9a0509fbf27f4d90fd10d5974eb54
+      internalID: 2018804890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1833e4c6a59846640b7deea584e4fcbe
+      internalID: 892660311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 460
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a173b615daf7fda41893fce333adef70
+      internalID: -985323655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 456
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8369eb3bd3a97d14884d06eed9b07a89
+      internalID: 561104008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6b81e4179f1db4680cfc16a534360c
+      internalID: -348415861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 394
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f0438b7c7816e4fbbbdcb570ac2ce3
+      internalID: 845985336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 398
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ac143ae920344db63cdeac3f5669d
+      internalID: -1223298953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 398
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947a47935c9e9a4cbdc24046f0e1caa
+      internalID: 158473001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 396
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e45afa7a0ada6f4084b1f1c417830c8
+      internalID: 326631524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 324
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d170dc0259855458c5e1081c18a826
+      internalID: -1865705064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 329
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4ebc59f6778c4a87e3e8d93ebd23a
+      internalID: -1154961253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 337
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7268b807c5a47c44f97ae09c1462a85e
+      internalID: -882104619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 334
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a8d59a14f3d0741b791501ac6c7474
+      internalID: 1181523339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 326
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86de1430ea78926458dfb2c89e5a130a
+      internalID: -1050675386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 318
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8e5f62d18e144fbd5868f9138e715
+      internalID: -607594023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ff21c309ecb149857013e51bed923
+      internalID: 1983825545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 268
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70738e101350dbb4898768f9b2752715
+      internalID: -409960423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 252
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97401768e91e43147bcdde1af261430c
+      internalID: -668006137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 268
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da3a3eec652034b90066aca9022f30
+      internalID: -1384097011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 252
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff0f701abeb7a46945a4eb4000d084
+      internalID: 740780014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 198
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d7029d42068f049955687615877ee4
+      internalID: -1564613142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ddd280f897a764b93258a452083386
+      internalID: -1691455878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 196
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68049455415b8eb469b559567d4ceb2f
+      internalID: 158899043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 196
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7635fbc9290ba4e9594c3772223f4d
+      internalID: -1272227102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0477bcf9130ee4a499de0ff49da63810
+      internalID: -1311667059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_53
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 197
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ba73f82938f24a934c97625ac4964
+      internalID: -1520022014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_54
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 197
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19210ac4d9e33414d9906822909681d3
+      internalID: 1672979888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 199
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d18a7de7efd844195d5ed270f145b4
+      internalID: 1431006138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc68f4329a8b946a33e2f9802f554a
+      internalID: 790824264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 133
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad46fa69aed36c4a9443696010ac169
+      internalID: 996152846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f272f07deb1d243acb7d838e2414e9
+      internalID: -631437786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 132
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d13ea07be1d9440a20d04d88048bf6
+      internalID: 396653771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 133
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d018e83be7ca44a2155a12c8fbe36
+      internalID: 2090910736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 132
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a9f4b2f61d024084ee07170681662
+      internalID: 1755192375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93098617e74a66042bab0746d3fc62b9
+      internalID: -1676782796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297fa6907b1cc3543b90707b740c28b8
+      internalID: 43495109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 62
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6c0c3bb618774081d33b514614921
+      internalID: 1925497452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_65
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 78
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262e30e2f4127f40a1a291007910beb
+      internalID: -122953687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda636f97b03a843b3102d8274dec71
+      internalID: 739493156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e31c98ce329594099d52cfe1c71064
+      internalID: 594839435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2896dbc46ac3534db0b898474290f98
+      internalID: 2091329315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 6
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7873a255dd65eef49820c57dadc01340
+      internalID: 1836870081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9dee405a76db0428e3affb70d06ab2
+      internalID: -1382368429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418c5aebee095641b3d4d2042ce13a9
+      internalID: -296287842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed75e38f835eac49bfc786a6fee9e70
+      internalID: -635745116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyTeleporter_73
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ad7b43e02f874aaf3019940f5761c
+      internalID: 1021442755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyTeleporter_49: -1691455878
+      EnemyTeleporter_12: 1830019013
+      EnemyTeleporter_32: -348415861
+      EnemyTeleporter_29: 892660311
+      EnemyTeleporter_53: -1520022014
+      EnemyTeleporter_19: -1831683432
+      EnemyTeleporter_63: 43495109
+      EnemyTeleporter_10: -871289616
+      EnemyTeleporter_15: -1719175694
+      EnemyTeleporter_37: -1865705064
+      EnemyTeleporter_56: 790824264
+      EnemyTeleporter_65: -122953687
+      EnemyTeleporter_50: 158899043
+      EnemyTeleporter_44: -409960423
+      EnemyTeleporter_30: -985323655
+      EnemyTeleporter_46: -1384097011
+      EnemyTeleporter_23: 1065383356
+      EnemyTeleporter_7: 617933373
+      EnemyTeleporter_72: -635745116
+      EnemyTeleporter_71: -296287842
+      EnemyTeleporter_16: 143328628
+      EnemyTeleporter_38: -1154961253
+      EnemyTeleporter_42: -607594023
+      EnemyTeleporter_54: 1672979888
+      EnemyTeleporter_73: 1021442755
+      EnemyTeleporter_3: -667128629
+      EnemyTeleporter_27: -1206068920
+      EnemyTeleporter_9: 164941757
+      EnemyTeleporter_43: 1983825545
+      EnemyTeleporter_35: 158473001
+      EnemyTeleporter_47: 740780014
+      EnemyTeleporter_41: -1050675386
+      EnemyTeleporter_34: -1223298953
+      EnemyTeleporter_58: -631437786
+      EnemyTeleporter_67: 594839435
+      EnemyTeleporter_8: -339247304
+      EnemyTeleporter_62: -1676782796
+      EnemyTeleporter_61: 1755192375
+      EnemyTeleporter_60: 2090910736
+      EnemyTeleporter_59: 396653771
+      EnemyTeleporter_13: 1380848863
+      EnemyTeleporter_70: -1382368429
+      EnemyTeleporter_57: 996152846
+      EnemyTeleporter_0: 328421978
+      EnemyTeleporter_21: 613695722
+      EnemyTeleporter_25: -1328372675
+      EnemyTeleporter_36: 326631524
+      EnemyTeleporter_26: -1632800252
+      EnemyTeleporter_68: 2091329315
+      EnemyTeleporter_28: 2018804890
+      EnemyTeleporter_33: 845985336
+      EnemyTeleporter_6: -182541395
+      EnemyTeleporter_45: -668006137
+      EnemyTeleporter_39: -882104619
+      EnemyTeleporter_48: -1564613142
+      EnemyTeleporter_55: 1431006138
+      EnemyTeleporter_24: -1828105063
+      EnemyTeleporter_66: 739493156
+      EnemyTeleporter_17: -976414940
+      EnemyTeleporter_5: 406388734
+      EnemyTeleporter_11: 1572551590
+      EnemyTeleporter_31: 561104008
+      EnemyTeleporter_69: 1836870081
+      EnemyTeleporter_64: 1925497452
+      EnemyTeleporter_1: -1279986004
+      EnemyTeleporter_18: 372245045
+      EnemyTeleporter_52: -1311667059
+      EnemyTeleporter_22: 147193911
+      EnemyTeleporter_2: 1272213326
+      EnemyTeleporter_51: -1272227102
+      EnemyTeleporter_4: 189816202
+      EnemyTeleporter_14: 1637560370
+      EnemyTeleporter_20: -1202927163
+      EnemyTeleporter_40: 1181523339
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
