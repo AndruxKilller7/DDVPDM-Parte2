@@ -89,6 +89,14 @@ public class EnemieGhost : MonoBehaviour
             vida -= 50;
 
         }
+
+        if (collision.CompareTag("Arrow"))
+        {
+           
+            animEn.SetTrigger("isDamage");
+            
+
+        }
     }
 
     public void AttackActive()
