@@ -37,7 +37,7 @@ public class MBoyMovement : MonoBehaviour
         inputs.Player.Movement.performed += ctx => Walk(ctx.ReadValue<float>());
         inputs.Player.Movement.canceled += ctx => StopMovement(ctx.ReadValue<float>());
         inputs.Player.Power.performed += ctx => ShootPower();
-        inputs.Player.Kick.performed += ctx => Attack();
+        //inputs.Player.Kick.performed += ctx => Attack();
         inputs.Player.Jump.performed += ctx => Jump();
         
     }

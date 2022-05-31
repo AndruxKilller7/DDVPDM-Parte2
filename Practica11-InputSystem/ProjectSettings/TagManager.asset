@@ -14,6 +14,7 @@ TagManager:
   - IceFloor
   - Casa
   - Wall
+  - Arrow
   layers:
   - Default
   - TransparentFX
@@ -50,4 +51,28 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1995473027
+    locked: 0
+  - name: Buldings
+    uniqueID: 1609352189
+    locked: 0
+  - name: bULDINGSsHADOWS
+    uniqueID: 2866860967
+    locked: 0
+  - name: TreesBackground
+    uniqueID: 1093207321
+    locked: 0
+  - name: Ground
+    uniqueID: 1929751387
+    locked: 0
+  - name: Details
+    uniqueID: 4131488357
+    locked: 0
+  - name: PLAYER
+    uniqueID: 1525025819
+    locked: 0
+  - name: HUD
+    uniqueID: 3017232893
     locked: 0

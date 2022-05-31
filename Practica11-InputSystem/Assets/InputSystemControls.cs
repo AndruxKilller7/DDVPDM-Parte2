@@ -62,6 +62,15 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""ShootArrow"",
+                    ""type"": ""Button"",
+                    ""id"": ""8cdb4729-9b1e-4ddc-8181-9e2657c441b8"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -196,6 +205,17 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
                     ""action"": ""Jump"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""940d21c5-524c-4e58-a554-c868b2fd5134"",
+                    ""path"": ""<Mouse>/rightButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Teclado"",
+                    ""action"": ""ShootArrow"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -231,6 +251,7 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
         m_Player_Jump = m_Player.FindAction("Jump", throwIfNotFound: true);
         m_Player_Power = m_Player.FindAction("Power", throwIfNotFound: true);
         m_Player_Kick = m_Player.FindAction("Kick", throwIfNotFound: true);
+        m_Player_ShootArrow = m_Player.FindAction("ShootArrow", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -294,6 +315,7 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
     private readonly InputAction m_Player_Jump;
     private readonly InputAction m_Player_Power;
     private readonly InputAction m_Player_Kick;
+    private readonly InputAction m_Player_ShootArrow;
     public struct PlayerActions
     {
         private @InputSystemControls m_Wrapper;
@@ -302,6 +324,7 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
         public InputAction @Jump => m_Wrapper.m_Player_Jump;
         public InputAction @Power => m_Wrapper.m_Player_Power;
         public InputAction @Kick => m_Wrapper.m_Player_Kick;
+        public InputAction @ShootArrow => m_Wrapper.m_Player_ShootArrow;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -323,6 +346,9 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
                 @Kick.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnKick;
                 @Kick.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnKick;
                 @Kick.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnKick;
+                @ShootArrow.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnShootArrow;
+                @ShootArrow.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnShootArrow;
+                @ShootArrow.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnShootArrow;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
@@ -339,6 +365,9 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
                 @Kick.started += instance.OnKick;
                 @Kick.performed += instance.OnKick;
                 @Kick.canceled += instance.OnKick;
+                @ShootArrow.started += instance.OnShootArrow;
+                @ShootArrow.performed += instance.OnShootArrow;
+                @ShootArrow.canceled += instance.OnShootArrow;
             }
         }
     }
@@ -367,5 +396,6 @@ public partial class @InputSystemControls : IInputActionCollection2, IDisposable
         void OnJump(InputAction.CallbackContext context);
         void OnPower(InputAction.CallbackContext context);
         void OnKick(InputAction.CallbackContext context);
+        void OnShootArrow(InputAction.CallbackContext context);
     }
 }

@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/UI-MainMenu.unity
     guid: 1d81ea37625c7aa44b50d01bf1b77d4b
   - enabled: 1
-    path: Assets/Scenes/MovementsType.unity
-    guid: 91e3ef9e5e63cf54d94d011e0a7ce9d3
+    path: Assets/Scenes/Level2.unity
+    guid: b116cfed39178054e880571c56fba478
   - enabled: 1
     path: Assets/Scenes/IceLevel.unity
     guid: be4a5534378c4e84497a666b11b9e95c
