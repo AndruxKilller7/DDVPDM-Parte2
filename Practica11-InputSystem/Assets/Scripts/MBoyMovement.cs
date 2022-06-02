@@ -26,6 +26,7 @@ public class MBoyMovement : MonoBehaviour
     float swipeMinX=0.5f;
     public float fireRate;
     public float nextFire;
+    public Transform pivot;
 
 
 
