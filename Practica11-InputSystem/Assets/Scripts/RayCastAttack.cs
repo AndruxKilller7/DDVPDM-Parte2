@@ -14,6 +14,7 @@ public class RayCastAttack : MonoBehaviour
     public GameObject arrowSprite;
     public GameObject efectoHit;
     public bool detectado;
+    public bool detectadoSuper;
     Animator anim;
     RaycastHit2D hit;
     void Start()
@@ -42,9 +43,15 @@ public class RayCastAttack : MonoBehaviour
             detectado = false;
             Debug.DrawRay(pivotArrowPoint.transform.position, Vector2.right * distanciaDeRayCast, Color.red);
         }
-        else if(hit.collider.CompareTag("Enemiw"))
+        else if(hit.collider.CompareTag("Enemiw") )
         {
             detectado = true;
+            Debug.DrawRay(pivotArrowPoint.transform.position, Vector2.right * distanciaDeRayCast, Color.green);
+        }
+
+        else if(hit.collider.CompareTag("Teleporter")|| hit.collider.CompareTag("Jumper") || hit.collider.CompareTag("Arquero"))
+        {
+            detectadoSuper = true;
             Debug.DrawRay(pivotArrowPoint.transform.position, Vector2.right * distanciaDeRayCast, Color.green);
         }
        
@@ -70,7 +77,18 @@ public class RayCastAttack : MonoBehaviour
             arrowSprite.SetActive(false);
             bowSprite.SetActive(false);
         }
-        
+
+        if (Time.time >= nextFire && detectadoSuper)
+        {
+            nextFire = Time.time + fireRate;
+            anim.SetBool("Arrow", false);
+            Instantiate(arrow, hit.collider.transform.position, arrow.transform.rotation);
+            Instantiate(efectoHit, new Vector3(hit.collider.transform.position.x - 0.5f, hit.collider.transform.position.y, hit.collider.transform.position.z), efectoHit.transform.rotation);
+            hit.collider.gameObject.GetComponent<EnemyController>().vida -= 50;
+            arrowSprite.SetActive(false);
+            bowSprite.SetActive(false);
+        }
+
     }
 
     public void ApuntarConElArco()

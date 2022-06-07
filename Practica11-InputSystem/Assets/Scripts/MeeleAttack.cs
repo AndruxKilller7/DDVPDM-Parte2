@@ -10,7 +10,9 @@ public class MeeleAttack : MonoBehaviour
     public float fireRate;
     public float nextFire;
     public bool detectado;
+    public bool detectadoSuper;
     public LayerMask enemies;
+    public LayerMask enemies2;
     public bool atacado;
     Animator anim;
     public GameObject point;
@@ -43,11 +45,16 @@ public class MeeleAttack : MonoBehaviour
             detectado = false;
             Debug.DrawRay(point.transform.position, Vector2.right * distanciaDeRayCast, Color.red);
         }
-        else if (rayhit.collider.CompareTag("Enemiw"))
+        else if (rayhit.collider.CompareTag("Enemiw") )
         {
             detectado = true;
             Debug.DrawRay(point.transform.position, Vector2.right * distanciaDeRayCast, Color.green);
            
+        }
+        else if(rayhit.collider.CompareTag("Teleporter") || rayhit.collider.CompareTag("Jumper") || rayhit.collider.CompareTag("Arquero"))
+        {
+            detectadoSuper = true;
+            Debug.DrawRay(point.transform.position, Vector2.right * distanciaDeRayCast, Color.green);
         }
 
        
@@ -68,11 +75,23 @@ public class MeeleAttack : MonoBehaviour
                 Collider2D[] enemigosDetectados = Physics2D.OverlapCircleAll(point.transform.position, distanciaDeRayCast, enemies);
                 for (int i = 0; i < enemigosDetectados.Length; i++)
                 {
+                   
                     enemigosDetectados[i].gameObject.GetComponent<EnemieGhost>().vida -= 50;
                     Instantiate(efectoHit, enemigosDetectados[i].gameObject.transform.position, efectoHit.transform.rotation);
                 }
+               
                 //rayhit.collider.gameObject.GetComponent<EnemieGhost>().vida -= 50;
 
+            }
+
+            if(detectadoSuper)
+            {
+                Collider2D[] enemigosDetectados2 = Physics2D.OverlapCircleAll(point.transform.position, distanciaDeRayCast, enemies2);
+                for (int i = 0; i < enemigosDetectados2.Length; i++)
+                {
+                    enemigosDetectados2[i].gameObject.GetComponent<EnemyController>().vida -= 50;
+                    Instantiate(efectoHit, enemigosDetectados2[i].gameObject.transform.position, efectoHit.transform.rotation);
+                }
             }
         }
 

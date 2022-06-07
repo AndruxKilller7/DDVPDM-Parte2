@@ -15,6 +15,10 @@ TagManager:
   - Casa
   - Wall
   - Arrow
+  - Teleporter
+  - Jumper
+  - ArrowE
+  - Arquero
   layers:
   - Default
   - TransparentFX
@@ -23,7 +27,7 @@ TagManager:
   - Water
   - UI
   - Enemies
-  - 
+  - SuperEnemies
   - 
   - 
   - 

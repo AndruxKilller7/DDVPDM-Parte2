@@ -11,7 +11,7 @@ public class EnemyJumper : MonoBehaviour
     public bool detectarJugador;
     public bool rangoDeDeteccion;
     float contador;
-    public float tiempoDeRotacion;
+    public float tiempoDeEspera;
     Animator anim;
     Rigidbody2D rbEnemy;
     public int contadorDeColisiones;
@@ -31,13 +31,11 @@ public class EnemyJumper : MonoBehaviour
     void Update()
     {
         DirigirseAlObjetivo();
+        RotacionRebotando();
 
-        if(contadorDeColisiones>=2)
-        {
-            anim.SetBool("Giro", true);
-        }
-       
-        
+
+
+
     }
 
 
@@ -59,13 +57,15 @@ public class EnemyJumper : MonoBehaviour
             anim.SetBool("Giro", true);
             if (objetivo.position.x > transform.position.x)
             {
-                rbEnemy.AddForce(new Vector2(1,1)* velocidadDeMovimiento, ForceMode2D.Force);
+                rbEnemy.AddForce(new Vector2(0,1) * 0.05f, ForceMode2D.Impulse);
+                rbEnemy.AddForce(new Vector2(1,0)* velocidadDeMovimiento, ForceMode2D.Force);
                 //transform.Translate(Vector3.right * velocidadDeMovimiento * Time.deltaTime);
             }
 
             if (objetivo.position.x < transform.position.x)
             {
-                rbEnemy.AddForce(new Vector2(-1, 1) * velocidadDeMovimiento, ForceMode2D.Force);
+                rbEnemy.AddForce(new Vector2(0, 1) * 0.05f, ForceMode2D.Impulse);
+                rbEnemy.AddForce(new Vector2(-1, 0) * velocidadDeMovimiento, ForceMode2D.Force);
                 //transform.Translate(Vector3.left * velocidadDeMovimiento * Time.deltaTime);
             }
         }
@@ -76,11 +76,11 @@ public class EnemyJumper : MonoBehaviour
         if(iniciarContador)
         {
             contador += 0.1f * Time.deltaTime;
-            if (contador >= tiempoDeRotacion)
+            if (contador >= tiempoDeEspera)
             {
                 rangoDeDeteccion = true;
-                contador = 0.0f;
                 iniciarContador = false;
+                contador = 0.0f;
             }
         }
        
@@ -92,18 +92,29 @@ public class EnemyJumper : MonoBehaviour
     {
         if(collision.gameObject.CompareTag("Player"))
         {
-           
+            rangoDeDeteccion = false;
+            detectarJugador = false;
             Instantiate(efectoHit, collision.gameObject.GetComponent<MBoyMovement>().pivot.position, collision.transform.rotation);
             iniciarContador = true;
-            rangoDeDeteccion = false;
             Debug.Log("sss");
-            detectarJugador = false;
-            anim.SetBool("Giro", false);
+            
             materialPhysics.bounciness = 0;
+            transform.Rotate(0, 0, 0);
         }
 
-      
+        if (collision.gameObject.CompareTag("Floor"))
+        {
+            //transform.Rotate(0, 0, 0);
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+            Debug.Log("Paro");
+            anim.SetBool("Giro", false);
+         
+        }
+
+
     }
+
+  
 
 
 }

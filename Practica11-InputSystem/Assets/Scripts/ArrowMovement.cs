@@ -20,7 +20,7 @@ public class ArrowMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Enemiw")|| collision.CompareTag("Wall"))
+        if(collision.CompareTag("Enemiw")|| collision.CompareTag("Wall") || collision.CompareTag("Teleporter") || collision.CompareTag("Jumper") || collision.CompareTag("Arquero"))
         {
             transform.parent = collision.gameObject.transform;
             velocity = 0.0f;

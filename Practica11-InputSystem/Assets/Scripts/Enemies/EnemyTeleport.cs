@@ -22,6 +22,7 @@ public class EnemyTeleport : MonoBehaviour
     {
         IniciarTeleport();
         DetectarJugador();
+        CaerDelCielo();
     }
 
     public void IniciarTeleport()
@@ -68,8 +69,18 @@ public class EnemyTeleport : MonoBehaviour
         {
             anim.SetTrigger("ClawAttack");
             Instantiate(efectoHit, collision.transform.position, transform.rotation);
+            //collision.gameObject.GetComponent<>
         }
     }
 
+    public void CaerDelCielo()
+    {
+        EnemyController contro = GetComponent<EnemyController>();
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if (contro.vida <= 0.0f)
+        {
+            rb.isKinematic = false;
+        }
+    }
 
 }
