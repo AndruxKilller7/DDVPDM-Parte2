@@ -5,6 +5,30 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5b00000750010b0b5b5c0f7b44225944451649792f7e736275714963bae36c6d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 05020c055d060a0a5e5d597344205c44144f1e2c787d75692f7f4960b2e16068
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 570951055057590f5e59587646715a4442151d2b292c23607f7f4a6be1b2363d
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5106515153575f09095f552047745c4417151d7e2f297f607a2a1c60e3e6303d
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 07050d5150015a0f5d570f7715260e44401548737a2b73637c7f186ae1b6606f
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 55500d0355020a5a0c595d7248720e4443161b7c752c23647c7a1b32b5e2366b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5105025357020a0959585a2411775e44154f4f7c282e246728284b37e7b1676b
+      flags: 0
     RecentlyUsedScenePath-0:
       value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
       flags: 0
@@ -16,9 +40,13 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
   m_VCProjectOverlayIcons: 1
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1

@@ -92298,10 +92298,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RootBone: {fileID: 9112024011915390493}
-  m_BoneTransforms: []
+  m_BoneTransforms:
+  - {fileID: 9112024011915390493}
   m_Bounds:
-    m_Center: {x: -0.21746927, y: 0.06199509, z: 0}
-    m_Extent: {x: 0.91753, y: 0.6219951, z: 0}
+    m_Center: {x: -0.09746963, y: -0.038139045, z: 0}
+    m_Extent: {x: 0.91753, y: 0.611861, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
   m_AutoRebind: 0
@@ -93028,7 +93029,7 @@ SpriteRenderer:
   m_SortingLayerID: 1525025819
   m_SortingLayer: 7
   m_SortingOrder: 13
-  m_Sprite: {fileID: -9159410187764433642, guid: 10a7c5673c477f644b051913cd5fa44c, type: 3}
+  m_Sprite: {fileID: 1559933288939066781, guid: 17317b856e1ec0d4d95051398aca51f1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -93119,7 +93120,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CategoryHash: 0.024146153
   m_labelHash: 5.878249e-16
-  m_SpriteKey: 1.3861392e+23
+  m_SpriteKey: -1.0798215e-11
 --- !u!114 &6726830961411242378
 MonoBehaviour:
   m_ObjectHideFlags: 0

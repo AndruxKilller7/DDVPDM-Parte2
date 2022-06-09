@@ -31,6 +31,10 @@ public class ArqueroEnemigo : MonoBehaviour
         {
             disparar = true;
         }
+        else
+        {
+            disparar = false;
+        }
     }
 
     public void Disparar()

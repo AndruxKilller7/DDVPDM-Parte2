@@ -57,14 +57,14 @@ public class EnemyJumper : MonoBehaviour
             anim.SetBool("Giro", true);
             if (objetivo.position.x > transform.position.x)
             {
-                rbEnemy.AddForce(new Vector2(0,1) * 0.05f, ForceMode2D.Impulse);
+                rbEnemy.AddForce(new Vector2(0,1) * 0.1f, ForceMode2D.Impulse);
                 rbEnemy.AddForce(new Vector2(1,0)* velocidadDeMovimiento, ForceMode2D.Force);
                 //transform.Translate(Vector3.right * velocidadDeMovimiento * Time.deltaTime);
             }
 
             if (objetivo.position.x < transform.position.x)
             {
-                rbEnemy.AddForce(new Vector2(0, 1) * 0.05f, ForceMode2D.Impulse);
+                rbEnemy.AddForce(new Vector2(0, 1) * 0.1f, ForceMode2D.Impulse);
                 rbEnemy.AddForce(new Vector2(-1, 0) * velocidadDeMovimiento, ForceMode2D.Force);
                 //transform.Translate(Vector3.left * velocidadDeMovimiento * Time.deltaTime);
             }
@@ -94,6 +94,7 @@ public class EnemyJumper : MonoBehaviour
         {
             rangoDeDeteccion = false;
             detectarJugador = false;
+            anim.SetBool("Giro", false);
             Instantiate(efectoHit, collision.gameObject.GetComponent<MBoyMovement>().pivot.position, collision.transform.rotation);
             iniciarContador = true;
             Debug.Log("sss");
