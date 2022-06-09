@@ -91273,7 +91273,7 @@ SpriteRenderer:
   m_SortingLayerID: 1525025819
   m_SortingLayer: 7
   m_SortingOrder: 1
-  m_Sprite: {fileID: -7609287342862537815, guid: 17317b856e1ec0d4d95051398aca51f1, type: 3}
+  m_Sprite: {fileID: -3656246314017895528, guid: 16c96fba417b3c74ca0c27e6e96b14ab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -91649,7 +91649,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6726830961411242376}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.39, y: 4.02, z: 0}
+  m_LocalPosition: {x: 0.39, y: 4.07, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -91738,7 +91738,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3623909485463136667}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.28999984, y: 3.435, z: 0}
+  m_LocalPosition: {x: 0.376, y: 3.514, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -92298,11 +92298,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RootBone: {fileID: 9112024011915390493}
-  m_BoneTransforms:
-  - {fileID: 9112024011915390493}
+  m_BoneTransforms: []
   m_Bounds:
-    m_Center: {x: -0.037469923, y: 0.021995068, z: 0}
-    m_Extent: {x: 0.91752994, y: 0.621995, z: 0}
+    m_Center: {x: -0.21746927, y: 0.06199509, z: 0}
+    m_Extent: {x: 0.91753, y: 0.6219951, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
   m_AutoRebind: 0
@@ -92322,7 +92321,7 @@ MonoBehaviour:
   m_BoneTransforms:
   - {fileID: 9112024011915390493}
   m_Bounds:
-    m_Center: {x: -0.0029090643, y: -0.0027945042, z: 0}
+    m_Center: {x: -0.08890951, y: -0.0817945, z: 0}
     m_Extent: {x: 0.87209, y: 0.892205, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
@@ -92396,8 +92395,8 @@ MonoBehaviour:
   - {fileID: 2438450405774467840}
   - {fileID: 5629393607298855210}
   m_Bounds:
-    m_Center: {x: -0.084627956, y: 0.012956053, z: 0}
-    m_Extent: {x: 0.16704682, y: 0.40805322, z: 0}
+    m_Center: {x: -0.103562534, y: 0.020765603, z: 0}
+    m_Extent: {x: 0.16779593, y: 0.40378752, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
   m_AutoRebind: 0
@@ -92520,7 +92519,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CategoryHash: -3.1684105e+26
   m_labelHash: -2.5031813e+30
-  m_SpriteKey: 7.8083627e+18
+  m_SpriteKey: -1.9785219e-17
 --- !u!1 &4484058957464502101
 GameObject:
   m_ObjectHideFlags: 0
@@ -93034,7 +93033,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.73, y: 1.73}
+  m_Size: {x: 1.84, y: 1.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
